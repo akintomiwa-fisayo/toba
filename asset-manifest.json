@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/toba/static/css/main.5bcd5c77.chunk.css",
+    "main.js": "/toba/static/js/main.7f8a1afe.chunk.js",
+    "main.js.map": "/toba/static/js/main.7f8a1afe.chunk.js.map",
+    "runtime-main.js": "/toba/static/js/runtime-main.fda5d187.js",
+    "runtime-main.js.map": "/toba/static/js/runtime-main.fda5d187.js.map",
+    "static/js/2.2993495e.chunk.js": "/toba/static/js/2.2993495e.chunk.js",
+    "static/js/2.2993495e.chunk.js.map": "/toba/static/js/2.2993495e.chunk.js.map",
+    "index.html": "/toba/index.html",
+    "precache-manifest.44c01cab7e70ab84ed0c673a4030c7b2.js": "/toba/precache-manifest.44c01cab7e70ab84ed0c673a4030c7b2.js",
+    "service-worker.js": "/toba/service-worker.js",
+    "static/css/main.5bcd5c77.chunk.css.map": "/toba/static/css/main.5bcd5c77.chunk.css.map",
+    "static/media/general.css": "/toba/static/media/header_light.f1a4a058.woff2",
+    "static/media/backPath.svg": "/toba/static/media/backPath.f458c03e.svg",
+    "static/media/banner.jpg": "/toba/static/media/banner.f181e73b.jpg",
+    "static/media/logo.svg": "/toba/static/media/logo.25bf045c.svg",
+    "static/media/mic.jpg": "/toba/static/media/mic.0f6440a6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda5d187.js",
+    "static/js/2.2993495e.chunk.js",
+    "static/css/main.5bcd5c77.chunk.css",
+    "static/js/main.7f8a1afe.chunk.js"
+  ]
+}
